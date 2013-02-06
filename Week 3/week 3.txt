@@ -1,0 +1,11 @@
+1. go into the bin folder by cd /user/bin/ -- to count files --- ls -l | grep -v ^l | wc -l    it has 480 files
+
+
+2. to get all the process the command is "top" Process: init has .3%
+
+3. command to see timezone is "date"  Tue Feb 6 19:02:16 UTC 2013
+
+4.to see the list of groups" nano /ect/group" and it tells you in readlines how many groups "56 groups"
+
+5. sudo wget cl.ly/2F0Q1r2y3K0l/362.tar 
+
